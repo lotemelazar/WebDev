@@ -1,0 +1,17 @@
+body {
+
+    background-image: linear-gradient(rgb(163, 210, 231), rgb(226, 240, 244));
+    background-repeat: no-repeat;
+}
+
+table {
+    text-align: center;
+    width: 100%;
+}
+
+table,
+th,
+td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
