@@ -22,7 +22,7 @@ body {
         align-items: center;
         grid-column: 1 / -1;
         grid-area: "header";
-        background-color: rgb(96, 193, 238);
+        background-color: rgb(97, 193, 238);
 
     }
 
